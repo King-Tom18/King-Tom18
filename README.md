@@ -6,9 +6,11 @@ Looking to expand my skills and expertise.
 I want to be a master coder one day.
 Specialise in Python and HTML.
 learning javascript.
+
 I want to specialise in website and game development.
 I'm looking to collaborate with anyone with similar goals and ideals.
 I'm looking for anything to increase my experience.
+
 How to reach me: Tomiwasenior@gmail.com
 
 <!--
