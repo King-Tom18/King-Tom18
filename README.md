@@ -4,7 +4,7 @@ I'm still a student and a fledgling coder.
 🔭 Looking to expand my skills and expertise.
 
 I want to be a master coder one day.
-Specialising in Python and HTML,
+Specialising in Python and HTML, C++
 learning javascript.
 
 😄 I want to specialise in website and game development.
