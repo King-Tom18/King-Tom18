@@ -7,10 +7,10 @@ I want to be a master coder one day.
 Specialising in Python and HTML, C++, 
  learning javascript.
 
-😄 I want to specialise in website and game development.
+I want to make software that chages the world.
 
 I'm looking to collaborate with anyone with similar goals and ideals.
-⚡ I'm looking for anything to increase my experience.
+  I'm looking for anything to increase my experience.
 
 How to reach me: Tomiwasenior@gmail.com
 
